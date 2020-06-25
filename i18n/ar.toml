@@ -21,3 +21,6 @@ other = "بإمكانك العودة إلى <a href=\"{{ . }}\">homepage</a>."
 
 [powered_by]
 other = "بواسطة"
+
+[title]
+other = 'تدوينات'
